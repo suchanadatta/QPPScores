@@ -4,6 +4,6 @@
 
 [Lucene8 Index](https://drive.google.com/file/d/1j687xrPvQDSP7seru7eoJeCGNOElUKnW/view?usp=sharing)
 
-### TREC Robust maximun relevant retrieved
+### TREC Robust all relevant retrieved
 
 [Res file](https://drive.google.com/file/d/1yfX-gKg7U70rgLwSMwSUhMV_2bAkeCTS/view?usp=sharing)
